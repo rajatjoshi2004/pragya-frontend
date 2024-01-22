@@ -1,0 +1,262 @@
+[
+    {
+        "value": "Adarsh Nagar",
+        "label": "Adarsh Nagar"
+    },
+    {
+        "value": "Agra Road",
+        "label": "Agra Road"
+    },
+    {
+        "value": "Ajmer Road",
+        "label": "Ajmer Road"
+    },
+    {
+        "value": "Ajmeri Gate",
+        "label": "Ajmeri Gate"
+    },
+    {
+        "value": "Ambabari",
+        "label": "Ambabari"
+    },
+    {
+        "value": "Amer Road",
+        "label": "Amer Road"
+    },
+    {
+        "value": "Bais Godam",
+        "label": "Bais Godam"
+    },
+    {
+        "value": "Bajaj Nagar",
+        "label": "Bajaj Nagar"
+    },
+    {
+        "value": "Bani Park",
+        "label": "Bani Park"
+    },
+    {
+        "value": "Bapu Bazaar",
+        "label": "Bapu Bazaar"
+    },
+    {
+        "value": "Bapu Nagar",
+        "label": "Bapu Nagar"
+    },
+    {
+        "value": "Barkat Nagar",
+        "label": "Barkat Nagar"
+    },
+    {
+        "value": "Bhawani Singh Road",
+        "label": "Bhawani Singh Road"
+    },
+    {
+        "value": "Biseswarji",
+        "label": "Biseswarji"
+    },
+    {
+        "value": "Brahmapuri",
+        "label": "Brahmapuri"
+    },
+    {
+        "value": "Chandpol",
+        "label": "Chandpol"
+    },
+    {
+        "value": "Civil Lines",
+        "label": "Civil Lines"
+    },
+    {
+        "value": "Durgapura",
+        "label": "Durgapura"
+    },
+    {
+        "value": "Gangori Bazar",
+        "label": "Gangori Bazar"
+    },
+    {
+        "value": "Ghat Darwaza",
+        "label": "Ghat Darwaza"
+    },
+    {
+        "value": "Gopalpura",
+        "label": "Gopalpura"
+    },
+    {
+        "value": "Indira Bazar",
+        "label": "Indira Bazar"
+    },
+    {
+        "value": "Jagatpura",
+        "label": "Jagatpura"
+    },
+    {
+        "value": "Jalupura",
+        "label": "Jalupura"
+    },
+    {
+        "value": "Janata Colony",
+        "label": "Janata Colony"
+    },
+    {
+        "value": "Jawaharlal Nehru Marg",
+        "label": "Jawaharlal Nehru Marg"
+    },
+    {
+        "value": "Jawahar Nagar",
+        "label": "Jawahar Nagar"
+    },
+    {
+        "value": "Jhotwara",
+        "label": "Jhotwara"
+    },
+    {
+        "value": "Jhotwara Industrial Area",
+        "label": "Jhotwara Industrial Area"
+    },
+    {
+        "value": "Johari Bazar",
+        "label": "Johari Bazar"
+    },
+    {
+        "value": "Jyothi Nagar",
+        "label": "Jyothi Nagar"
+    },
+    {
+        "value": "Kalwar Road",
+        "label": "Kalwar Road"
+    },
+    {
+        "value": "Kartarpur",
+        "label": "Kartarpur"
+    },
+    {
+        "value": "Khatipura",
+        "label": "Khatipura"
+    },
+    {
+        "value": "Mahesh Nagar",
+        "label": "Mahesh Nagar"
+    },
+    {
+        "value": "Malviya Nagar",
+        "label": "Malviya Nagar"
+    },
+    {
+        "value": "Mansarovar",
+        "label": "Mansarovar"
+    },
+    {
+        "value": "Mirza Ismail Road",
+        "label": "Mirza Ismail Road"
+    },
+    {
+        "value": "Motidungri Marg",
+        "label": "Motidungri Marg"
+    },
+    {
+        "value": "Muralipura",
+        "label": "Muralipura"
+    },
+    {
+        "value": "New Colony",
+        "label": "New Colony"
+    },
+    {
+        "value": "Pink City",
+        "label": "Pink City"
+    },
+    {
+        "value": "Raja Park",
+        "label": "Raja Park"
+    },
+    {
+        "value": "Ramganj",
+        "label": "Ramganj"
+    },
+    {
+        "value": "Sanganer",
+        "label": "Sanganer"
+    },
+    {
+        "value": "Sansar Chandra Road",
+        "label": "Sansar Chandra Road"
+    },
+    {
+        "value": "Sethi Colony",
+        "label": "Sethi Colony"
+    },
+    {
+        "value": "Shastri Nagar",
+        "label": "Shastri Nagar"
+    },
+    {
+        "value": "Shyam Nagar",
+        "label": "Shyam Nagar"
+    },
+    {
+        "value": "Sikar Road",
+        "label": "Sikar Road"
+    },
+    {
+        "value": "Sindhi Camp",
+        "label": "Sindhi Camp"
+    },
+    {
+        "value": "Sirsi Road",
+        "label": "Sirsi Road"
+    },
+    {
+        "value": "Sitapura Industrial Area",
+        "label": "Sitapura Industrial Area"
+    },
+    {
+        "value": "Sodala",
+        "label": "Sodala"
+    },
+    {
+        "value": "Subhash Nagar",
+        "label": "Subhash Nagar"
+    },
+    {
+        "value": "Sudharshanpura Industrial Area",
+        "label": "Sudharshanpura Industrial Area"
+    },
+    {
+        "value": "Surajpol Bazar",
+        "label": "Surajpol Bazar"
+    },
+    {
+        "value": "Tilak Nagar",
+        "label": "Tilak Nagar"
+    },
+    {
+        "value": "Tonk Phatak",
+        "label": "Tonk Phatak"
+    },
+    {
+        "value": "Tonk Road",
+        "label": "Tonk Road"
+    },
+    {
+        "value": "Transport Nagar",
+        "label": "Transport Nagar"
+    },
+    {
+        "value": "Vaishali Nagar",
+        "label": "Vaishali Nagar"
+    },
+    {
+        "value": "Vidhyadhar Nagar",
+        "label": "Vidhyadhar Nagar"
+    },
+    {
+        "value": "Vishwakarma Industrial Area",
+        "label": "Vishwakarma Industrial Area"
+    },
+    {
+        "value": "Other",
+        "label": "Other"
+    }
+]

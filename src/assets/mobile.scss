@@ -1,0 +1,78 @@
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --red: #FF0000;
+    --blackLight: #333333;
+    --Gray: #F5F5F5;
+    --GrayBorder: #E0E0E0;
+    --GrayText: #D1D1D1;
+    --GrayLightText: #777777;
+    --GrayLight: #F9F9F9;
+    --GrayExtraLight: #EEEEEE;
+    --Blue: #1F3A93;
+    --BlueLight: #E2E7FF;
+    --Pink: #BF55ED;
+    --PinkLight: #FCF1FF;
+
+    // Category Colors
+
+    --DogFood: #FDFAD0;
+    --CatFood: #E4F3CB;
+    --CustomisedMealPlans: #C3FCBF;
+    --CustomisedMealPlansforCats: #D0CFFA;
+    --DogTreats: #CBF9FF;
+    --CatTreats: #FFE4EB;
+    --AccessoriesToysforDogs: #CFE2FA;
+    --AccessoriesToysforCats: #FACFCF;
+    --DogHealthWellness: #FFDFD0;
+    --CatHealthWellness: #CFFAF7;
+}
+
+@media (max-width: 575.98px) {
+    .edit-profile-section-inner {
+        padding: 0px 30px 30px 30px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .edit-profile-photo {
+        margin-left: 25%;
+    }
+
+    .gotra-input {
+        margin-bottom: 20px;
+    }
+
+
+
+    .family-input {
+        margin-bottom: 20px;
+    }
+
+    .family-heading {
+        margin-top: 40px;
+    }
+
+    .sr-number {
+        font-size: 18px;
+        padding-top: 1px;
+    }
+
+    .edit-profile-section-wrapper .submit-button {
+        width: 100%;
+    }
+  
+}
+
+@media (max-width: 768px) {
+    .gotra-input {
+        margin-bottom: 20px;
+    }
+
+    .family-input {
+        margin-bottom: 20px;
+    }
+   
+
+
+}
